@@ -4,8 +4,8 @@ Este repositorio contiene mi documentación personal sobre Golang y Gin.
 
 ## Estructura del Repositorio
 
-- **carpeta1**: Descripción del contenido de la carpeta1.
-- **carpeta2**: Descripción del contenido de la carpeta2.
+- **rutas basicas**: esta carpeta contiene todo lo relacionado con Gin-Gonic.
+
 
 ## Instalación
 
