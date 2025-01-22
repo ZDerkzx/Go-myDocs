@@ -34,6 +34,7 @@ func main() {
 		result := numberA * numberB
 		// por ultimo damos la respuesta al cliente con un 200(EXITO)
 		// y le mostramos el Resultado en JSON
+		//gin.H Devuelve un Mapa
 		c.JSON(200, gin.H{
 			"El ": result,
 			"OMG": "ALV",
